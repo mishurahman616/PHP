@@ -4,6 +4,8 @@
 
     // array_walk function takes three parameter: fisrt one is array, second one is callback funtion
     // Third parameter is optional
+    
+    //array_walk return nothing
 
     //callback funtion
     function print_array($var, $key)
